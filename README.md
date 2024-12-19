@@ -13,6 +13,7 @@ This folder includes the following subfolder and files:
 - **Outputr**: Contains two output files:
   - 1.1_average_min_temp_sort.csv: Average min temperature by month on Mars.
   - 1.2_average_pressure_sort.csv: Average pressure by month on Mars.
+  - 1.3_mars_weather.csv: Mars weather data.
 - **Submission Files**: 
   - part_1_mars_news.ipynb: crape Titles and Preview Text from Mars News
   - part_2_mars_weather.ipynb: Scrape and Analyze Mars Weather Data
